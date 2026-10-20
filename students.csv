@@ -1,0 +1,17 @@
+student_ID,Name,Department,Python,Math,AI Basics,DataScience,Statistics,Attendence
+
+S001, Ananya,CSE,35,78,89,95,74,87
+S002, Abhi,DS,87,86,56,35,90,87
+S003, Ashira,AIML,54,98,87,67,90,98
+S004, Balu,ECE,90,86,76,95,64,87
+S005, Deva,EEE,98,87,76,65,54,65
+S006, Rishi,Mech,87,76,65,54,43,76
+S007, Kavya,CSE,54,65,76,87,98,65
+S008, Pooja,DS,98,86,75,64,53,78
+S009, Kiran,AIML,54,75,86,97,98,76
+S010, Pavan,CSE,87,76,78,75,65,65
+S011, Lavanya,DS,90,98,80,70,67,76
+S012, Lavya,EEE,50,60,70,80,90,75
+S013, Lasya,Mech,89,87,86,85,84,65
+S014, Komali,DS,98,78,67,65,67,90
+S015, Harsha,EEE,90,70,67,56,78,87
